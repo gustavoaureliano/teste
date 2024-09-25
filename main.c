@@ -4,3 +4,7 @@ int main() {
 	printf("hello");
 	return 0;
 }
+
+void oi() {
+	printf("oi");
+}
